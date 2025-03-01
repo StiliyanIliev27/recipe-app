@@ -1,75 +1,9 @@
-# Nuxt Minimal Starter
+<div>
+  <h1>Recipe App with Nuxt.js</h1>
+</div>
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+![Screenshot 2025-03-01 152143](https://github.com/user-attachments/assets/86625e72-a3a0-443f-9327-21f72e707c97)
 
-## Setup
+![Screenshot 2025-03-01 152423](https://github.com/user-attachments/assets/278c9ceb-dd31-4a38-be5a-2f500c530f01)
 
-Make sure to install dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+![Screenshot 2025-03-01 152434](https://github.com/user-attachments/assets/9e764508-6884-447c-a449-f081f492a185)
